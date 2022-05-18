@@ -1,0 +1,4 @@
+minecraftServer:
+  eula: true
+  motd: "!!CIVO KubeCon Region!!"
+  serviceType: LoadBalancer
